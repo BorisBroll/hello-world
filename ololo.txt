@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 print("Ololo!!!")
-print("!!!")
+print("Ololo-Ololo!!!")
+>>>>>>> feature/ololo
