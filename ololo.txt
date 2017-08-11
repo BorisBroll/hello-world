@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 print("Ololo!!!")
 print("Ololo-Ololo!!!")
->>>>>>> feature/ololo
+
